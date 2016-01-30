@@ -28,7 +28,8 @@
 
 ##### Enhancements
 
-* None.
+* Improve performance of `LineLengthRule`.  
+  [Norio Nomura](https://github.com/norio-nomura)
 
 ##### Bug Fixes
 
